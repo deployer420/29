@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x893B7c002b2bC0278D54AF47feb4bA40BC8b1a5C",
+  "SCAN_LINK": "https://etherscan.io/address/0x893B7c002b2bC0278D54AF47feb4bA40BC8b1a5C",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Golden Eden by Zeph",
+  "SYMBOL": "GOLD",
+  "MAX_SUPPLY": 1555,
+  "WEI_COST": 9000000000000000,
+  "DISPLAY_COST": 0.009000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/golden-eden-by-zeph",
+  "SHOW_BACKGROUND": true
+}
