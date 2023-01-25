@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Golden Eden by Zeph",
   "SYMBOL": "GOLD",
-  "MAX_SUPPLY": 3500,
+  "MAX_SUPPLY": 3400,
   "WEI_COST": 3000000000000000,
   "DISPLAY_COST": 0.003000000,
   "GAS_LIMIT": 140000,
